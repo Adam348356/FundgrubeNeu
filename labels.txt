@@ -1,0 +1,4 @@
+0 Hose
+1 Schuh
+2 T-Shirt
+3 Hoodie
